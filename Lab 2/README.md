@@ -6,7 +6,7 @@
 2. Study Lessons 1 and 2
 3. Open a terminal and enter the following commands:
 
- `hostname
+`hostname
 
  env
  
