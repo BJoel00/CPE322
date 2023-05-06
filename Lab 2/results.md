@@ -6,9 +6,13 @@
 
 ![](Terminal3.png)
 
-![Creating file in nano](NanoFile.png)
+### File created in nano
 
-![Commands after clear](Terminal4.png)
+![](NanoFile.png)
+
+### Commands after clear
+
+![](Terminal4.png)
 
 ![](Terminal5.png)
 
