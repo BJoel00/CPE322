@@ -6,7 +6,7 @@
 2. Study Lessons 1 and 2
 3. Open a terminal and enter the following commands:
 
-`hostname
+hostname
 
  env
  
@@ -48,7 +48,7 @@
  
  ping localhost
  
- netstat`
+ netstat
  
  The `man uname` command was adjusted to `uname --help` and the `ifconfig` command was adjusted to `ipconfig`.
  
