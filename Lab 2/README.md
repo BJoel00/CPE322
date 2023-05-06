@@ -6,49 +6,49 @@
 2. Study Lessons 1 and 2
 3. Open a terminal and enter the following commands:
 
-`hostname
+`hostname`
 
- env
+`env`
  
- ps
+`ps`
  
- pwd
+`pwd`
  
- git clone https://github.com/kevinwlu/iot.git
+`git clone https://github.com/kevinwlu/iot.git`
  
- cd iot
+`cd iot`
  
- ls
+`ls`
  
- cd
+`cd`
  
- df
+`df`
  
- mkdir demo
+`mkdir demo`
  
- cd demo
+`cd demo`
  
- nano file
+`nano file`
  
- cat file
+`cat file`
  
- cp file file1
+`cp file file1`
  
- mv file file2
+`mv file file2`
  
- rm file2
+`rm file2`
  
- clear
+`clear`
  
- man uname
+`man uname`
  
- uname -a
+`uname -a`
  
- ifconfig
+`ifconfig`
  
- ping localhost
+`ping localhost`
  
- netstat`
+`netstat`
  
  The `man uname` command was adjusted to `uname --help` and the `ifconfig` command was adjusted to `ipconfig`.
  
