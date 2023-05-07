@@ -11,13 +11,10 @@ $ hostname
 $ env
 $ ps
 $ pwd
-$ git clone
-https://github.com/kevin
-wlu/iot.git
+$ git clone https://github.com/kevinwlu/iot.git
 $ cd iot
 $ ls
 $ cd
-3
 $ df
 $ mkdir demo
 $ cd demo
