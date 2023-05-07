@@ -12,4 +12,4 @@
 
 ## Results
 
-The results of the Half Adder and D Flip-Flop examples are included.
+Screenshots of the Half Adder and D Flip-Flop examples are included individually and in the [results file](results.md).
