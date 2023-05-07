@@ -2,7 +2,7 @@
 
 ## MQTT: Install check
 
-![](InstallCheck.png)
+![](InstallTest.png)
 
 ## Paho-MQTT: MyCPU
 
