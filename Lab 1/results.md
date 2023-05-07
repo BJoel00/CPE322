@@ -2,8 +2,8 @@
 
 ## Half Adder
 
-![](Half Adder.png)
+![](HalfAdder.png)
 
 ## D Flip-Flop
 
-![](D Flip-Flop.png)
+![](DFlipFlop.png)
