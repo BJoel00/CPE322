@@ -24,4 +24,4 @@ $ python3 documentstats.py document.txt
 
 ## Results
 
-Results are included as individual screenshots as well as in the [results file](results.md).
+Screenshots of the terminal throughout the process are included individually and in the [results file](results.md).
