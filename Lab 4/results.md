@@ -24,6 +24,7 @@
 
 ### CPU data viewed on another device
 
+![](CPUDataOtherDevice1.jpeg)
 
 ## Flask
 
