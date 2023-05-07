@@ -11,7 +11,7 @@
 [Professor Lu's Github](https://github.com/kevinwlu/iot)
 
 ### Labs
-Lab 1: GHDL and GTKWave
+[Lab 1](Lab 1): GHDL and GTKWave
 
 Lab 2: Command Line
 
